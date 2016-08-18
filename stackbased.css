@@ -7,7 +7,7 @@ _________ __                 __   ___.                      
        \/           \/     \/     \/    \/     \/     \/     \/     \/      \/               \/      \/     \/                        \/ \/     \/     \/     \/
 */
 
-*, div, img, span, p, a, button, input, form, textarea, select, fieldset, legend, article, aside, footer, header, nav, section, sup, sub, ul, ol, li, dt, dl {
+html > body *, div, img, span, p, a, button, label, pre, input, form, textarea, select, fieldset, legend, article, aside, footer, header, nav, section, sup, sub, ul, ol, li, dt, dl {
     display: block !important;
     float: none !important;
     position: relative !important;
