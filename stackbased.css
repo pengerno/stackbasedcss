@@ -5,11 +5,9 @@ _________ __                 __   ___.                      
 /        \|  |  / __ \\  \___|    < | \_\ \/ __ \_\___ \\  ___// /_/ |  |     \   |  | \// __ \|  Y Y  \  ___/\     (  <_> )  | \/    <    \  \___ \___ \ \___ \
 /_______  /|__| (____  /\___  >__|_ \|___  (____  /____  >\___  >____ |  \___  /   |__|  (____  /__|_|  /\___  >\/\_/ \____/|__|  |__|_ \ /\ \___  >____  >____  >
        \/           \/     \/     \/    \/     \/     \/     \/     \/      \/               \/      \/     \/                        \/ \/     \/     \/     \/
-                                                                                                                                                                 
-                                                                                                                                                                 
 */
 
-* {
+*, div, img, span, p, a, button, input, form, textarea, select, fieldset, legend, article, aside, footer, header, nav, section, sup, sub, ul, ol, li, dt, dl {
     display: block !important;
     float: none !important;
     position: relative !important;
